@@ -13,7 +13,7 @@ class Home extends Component {
                 <h4>Full Stack Web Developer | Website Creator</h4>
                 <br />
                 <div id="demoday">
-                    <img src={img} alt="demo day" height="300" />
+                    <img src={img} alt="demo day" height="300" /> <br /> <br />
                     <p>
                         I am pursuing a career in web development and design.
                     I completed a Certificate program through UNC Charlotte. 

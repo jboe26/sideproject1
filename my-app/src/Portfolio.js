@@ -11,8 +11,8 @@ class Portfolio extends Component {
         <br />
 
         <img src={picture1} alt="quizzly" height="200" />
-        <img src={picture2} alt="quizzly" height="200" /> 
-        <img src={picture3} alt="quizzly" height="200" />
+        <img src={picture2} alt="whatschat" height="200" /> 
+        <img src={picture3} alt="crystalgame" height="200" />
       
       </div>
     );
