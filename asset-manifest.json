@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.97b91130.chunk.css",
+    "main.js": "/my-app/static/js/main.4c14bac9.chunk.js",
+    "main.js.map": "/my-app/static/js/main.4c14bac9.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.56c001b7.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.56c001b7.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/my-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2c069c66.chunk.js": "/my-app/static/js/2.2c069c66.chunk.js",
+    "static/js/2.2c069c66.chunk.js.map": "/my-app/static/js/2.2c069c66.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.01242a35f99252ec95d3e3b0b3fdf08e.js": "/my-app/precache-manifest.01242a35f99252ec95d3e3b0b3fdf08e.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/my-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.97b91130.chunk.css.map": "/my-app/static/css/main.97b91130.chunk.css.map",
+    "static/js/2.2c069c66.chunk.js.LICENSE": "/my-app/static/js/2.2c069c66.chunk.js.LICENSE",
+    "static/media/crystal.gif": "/my-app/static/media/crystal.b258dc3f.gif",
+    "static/media/demoday.jpg": "/my-app/static/media/demoday.e26e1576.jpg",
+    "static/media/quiz.gif": "/my-app/static/media/quiz.aa8da603.gif",
+    "static/media/whatschat.gif": "/my-app/static/media/whatschat.aa2fc013.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56c001b7.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2c069c66.chunk.js",
+    "static/css/main.97b91130.chunk.css",
+    "static/js/main.4c14bac9.chunk.js"
+  ]
+}
